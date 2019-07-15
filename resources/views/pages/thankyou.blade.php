@@ -1,4 +1,4 @@
 @extends('lay.default')
 @section('content')
-     <h1>thanks: {{$name}} </h1>
+     <h1>Dear (( {{$name}} )) Thanks for the submission:  </h1>
 @endsection
